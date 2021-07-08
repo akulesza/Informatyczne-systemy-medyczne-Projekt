@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 08 14:49:53 CEST 2021:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585) systemu Derby: instancja a816c00e-017a-862a-d6f0-00000710e508
+w katalogu bazy danych E:\Ania\biomed\sem5\ISMED\Rubel, projekt\projekt\ismed-projekt-akulesz2-master-patch-91362-ISMED\ISMED\IsmedDB jdk.internal.loader.ClassLoaders$AppClassLoader@2ed94a8b 
+
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=E:\Ania\biomed\sem5\ISMED\Rubel, projekt\projekt\ismed-projekt-akulesz2-master-patch-91362-ISMED\ISMED
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Uruchomiono program ³aduj¹cy klasê bazy danych - derby.database.classpath=''
